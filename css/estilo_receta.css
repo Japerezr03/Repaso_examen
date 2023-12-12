@@ -1,0 +1,84 @@
+body {
+    font-size: 14px;
+    margin: 0%;
+}
+
+.bizcocho {
+    background-color: #e7bae7;
+    text-align: center;
+    color: #7e027e;
+    padding: 20px;
+}
+
+.barra_navegacion {
+    background-color: #7e027e;
+    padding: 15px;
+}
+
+a {
+    color: #e7bae7;
+}
+
+.caja {
+    background: url(../img/fondo.png) no-repeat;
+    background-size: cover;
+    padding: 20px 200px;
+}
+
+.caja_informacion {
+    border-radius: 10px;
+    border: 5px double #7e027e;
+    padding: 20px;
+}
+
+.titulo_platano {
+    text-align: center;
+    color: #7e027e;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.palabras_clave {
+    text-align: right;
+    color: #7e027e;
+}
+
+.margen_texto {
+    margin: 0%;
+}
+
+h3 {
+    background-color: #e7bae7;
+    padding: 10px;
+    border-bottom: 3px solid #7e027e;
+    color: #7e027e;
+}
+
+.texto_destacado {
+    color: blue;
+    text-decoration: underline;
+}
+
+img {
+    height: 200px;
+}
+
+figure {
+    text-align: center;
+}
+
+.texto_pie {
+    background-color: #7e027e;
+    color: #ffffff;
+    text-align: center;
+    border-top: 5px solid #e7bae7;
+
+}
+
+.imagen_telefono {
+    width: 10px;
+    height: auto;
+}
+
+p {
+margin: 0%;}
